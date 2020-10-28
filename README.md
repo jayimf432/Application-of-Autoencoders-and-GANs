@@ -1,1 +1,1 @@
-# Application-of-Autoencoders
+# Application-of-Autoencoders and GANs
